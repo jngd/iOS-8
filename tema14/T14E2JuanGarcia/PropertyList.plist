@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celda0</key>
+	<dict>
+		<key>imagen</key>
+		<string>im1.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im1</string>
+		<key>title</key>
+		<string>title of im1</string>
+	</dict>
+	<key>celda1</key>
+	<dict>
+		<key>imagen</key>
+		<string>im2.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im2</string>
+		<key>title</key>
+		<string>title of im2</string>
+	</dict>
+	<key>celda2</key>
+	<dict>
+		<key>imagen</key>
+		<string>im3.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im3</string>
+		<key>title</key>
+		<string>title of im3</string>
+	</dict>
+	<key>celda3</key>
+	<dict>
+		<key>imagen</key>
+		<string>im4.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im4</string>
+		<key>title</key>
+		<string>title of im4</string>
+	</dict>
+	<key>celda4</key>
+	<dict>
+		<key>imagen</key>
+		<string>im5.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im5</string>
+		<key>title</key>
+		<string>title of im5</string>
+	</dict>
+	<key>celda5</key>
+	<dict>
+		<key>imagen</key>
+		<string>im6.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im6</string>
+		<key>title</key>
+		<string>title of im6</string>
+	</dict>
+	<key>celda6</key>
+	<dict>
+		<key>imagen</key>
+		<string>im7.jpeg</string>
+		<key>subtitle</key>
+		<string>subtitle of im7</string>
+		<key>title</key>
+		<string>title of im7</string>
+	</dict>
+</dict>
+</plist>
